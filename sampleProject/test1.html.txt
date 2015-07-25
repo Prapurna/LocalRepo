@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>Local Page 1</TITLE>
+<TITLE>My Page 1</TITLE>
 </HEAD>
 <BODY BGCOLOR="FFFFFF">
 <H1>This is a Header</H1>
